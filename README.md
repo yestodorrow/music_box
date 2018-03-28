@@ -12,6 +12,10 @@
 
 # 这里我是列出了三种类型的可视化图
 
+
+# 属性
+![图片链接](https://github.com/yestodorrow/music_box/blob/master/static/usage.png)
+
 ``` bash
 
 # install dependencies
