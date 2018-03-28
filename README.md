@@ -4,14 +4,20 @@
 
 发现一个很好玩的vue插件，能够将听到的音乐可视化
 
+闲来无聊，写了一个小demo
+
 
 
 ## 效果截图、
+# 这里我是列出了三种类型的可视化图
 
 ![图片链接](https://github.com/yestodorrow/music_box/blob/master/static/music_screenshot.png)
 
-# 这里我是列出了三种类型的可视化图
 
+# 安装
+        npm i 
+        import 
+        Vue.use
 
 # 属性
 ![图片链接](https://github.com/yestodorrow/music_box/blob/master/static/usage.png)
