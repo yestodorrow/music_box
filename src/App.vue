@@ -1,12 +1,22 @@
 <template>
   <div id="app">
+    {{client}}
     <router-view/>
   </div>
 </template>
 
 <script>
+import Client from './plugins'
 export default {
-  name: 'App'
+  name: 'App',
+  data(){
+    return{
+      client:""
+    }
+  },
+  created:function(){
+    this.client=Client
+  }
 }
 </script>
 

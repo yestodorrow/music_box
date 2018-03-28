@@ -22,6 +22,11 @@
 # 属性
 ![图片链接](https://github.com/yestodorrow/music_box/blob/master/static/usage.png)
 
+#检测用户平台
+    虽然自带的useragent appversion能查看客户端，正巧想起来以前用过的detect.js,是否能用在vue中呢
+
+    我在app加载时打印出客户端信息，发现chrome  windows 是否是手机 等信息很全，然后查看了opera、firefox浏览器也都ok
+
 ``` bash
 
 # install dependencies
