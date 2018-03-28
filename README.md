@@ -2,9 +2,18 @@
 
 > express and vue and node
 
-## Build Setup
+发现一个很好玩的vue插件，能够将听到的音乐可视化
+
+
+
+## 效果截图、
+
+![图片链接](https://github.com/yestodorrow/music_box/blob/master/static/music_screenshot.png)
+
+# 这里我是列出了三种类型的可视化图
 
 ``` bash
+
 # install dependencies
 npm install
 
