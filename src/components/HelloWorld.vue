@@ -75,6 +75,9 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+ul{
+  padding-left:0;
+}
 ul>li{
   list-style:none;
 }
